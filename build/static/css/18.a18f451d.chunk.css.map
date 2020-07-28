@@ -1,1 +1,0 @@
-{"version":3,"sources":["NotFound.css"],"names":[],"mappings":"AAAA,gBACI,qCAAsC,CACtC,aAAe,CACf,UAAY,CACZ,iBAAkB,CAClB,QAAS,CACT,0BACJ","file":"18.a18f451d.chunk.css","sourcesContent":[".not-found-home {\n    background-color: var(--main-bg-color);\n    padding: 0.75em;\n    color: white;\n    position: absolute;\n    left: 50%;\n    transform: translateX(-50%);\n}"]}
